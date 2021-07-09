@@ -10,11 +10,11 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Bsc. in Statistics
   icon: fa-microscope
   timeframe: 2016-2020
   institution:
-    name: ABC University of Technology
+    name: Jomo Kenyatta University of Agriculture and Technology
     url: "#"
   grade: #(optional)
     scale: CGPA
@@ -27,11 +27,11 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: Foundation Degree in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2012-2016
   institution:
-    name: University of XYZ
+    name: University of the People
     url: "#"
   grade: #(optional)
     scale: CGPA
@@ -50,7 +50,7 @@ degrees:
     - name: Operating System
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
+    - name: Artificial Intelligence
       achieved: 3.75
       outOf: 4
   publications: #(optional)
@@ -63,27 +63,33 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+- name: Python Pro Bootcamp
   icon: fa-university
   timeframe: 2010-2012
   institution:
-    name: MST College of Science
+    name: London App Brewery
     url: "#"
   grade: #(optional)
     scale: GPA
     achieved: 5
     outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+  Activities: #(optional)
+  - Python3 Latest version of Python, PyCharm, Jupyter Notebook, Google Colab. 
+  - Python game Development, Web Scraping, Beautiful Soup, Selenium Web Driver, Request.
+  - Data science, Numpy, Matplotlib, Seaborn, Scikit learn, Turtle, Tkinter
+  - Front-End Web Development, Backend Web Development, Git, GitHub and Version Control.
+- name: High School Certificate
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2017-2020
   institution:
-    name: JK School of Science
+    name: Alliance High School
   grade: #(optional)
     scale: GPA
     achieved: 4.5
     outOf: 5
+   extracurricularActivities:
+   -President M.I.T. Launch X Club
+   -Chairman History Club
+   -President Junior Economic Club
+   -Played in the Basketball team
+   -Was part of the World Scholars
