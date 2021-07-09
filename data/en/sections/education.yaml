@@ -14,7 +14,7 @@ degrees:
   icon: fa-microscope
   timeframe: 2016-2020
   institution:
-    name: Jomo Kenyatta University of Agriculture and Technology
+    name: Jomo Kenyatta University of Agriculture and Technology.
     url: "#"
   grade: #(optional)
     scale: CGPA
