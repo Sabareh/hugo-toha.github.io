@@ -11,8 +11,8 @@ section:
 designation: Data Scientist
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Zindi
+  url: "https://www.zindi.africa"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -37,7 +37,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "www.linkedin.com/sabare-victor-oketch"
+  url: "www.https://www.linkedin.com/in/sabare-victor-oketch-7070021ba/"
 
 - name: Twitter
   icon: "fab fa-twitter"
