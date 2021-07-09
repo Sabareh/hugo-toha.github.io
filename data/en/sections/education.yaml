@@ -73,7 +73,7 @@ degrees:
     scale: GPA
     achieved: 5
     outOf: 5
-  Activities: #(optional)
+  extracurricularActivities: #(optional)
   - Python3 Latest version of Python, PyCharm, Jupyter Notebook, Google Colab. 
   - Python game Development, Web Scraping, Beautiful Soup, Selenium Web Driver, Request.
   - Data science, Numpy, Matplotlib, Seaborn, Scikit learn, Turtle, Tkinter
