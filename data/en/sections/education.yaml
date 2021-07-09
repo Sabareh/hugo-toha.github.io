@@ -31,7 +31,7 @@ degrees:
   icon: fa-graduation-cap
   timeframe: 2012-2016
   institution:
-    name: University of the People
+    name: University of the People.
     url: "#"
   grade: #(optional)
     scale: CGPA
