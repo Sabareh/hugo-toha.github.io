@@ -17,7 +17,7 @@ skills:
   url: "https://kubernetes.io/"
 
 - name: Python Development
-  logo: /images/sections/skills/python.png
+  logo: /images/sections/skills/Python3.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"
 
