@@ -10,9 +10,9 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Bsc. in Statistics
+- name: Bsc. in Data Science and Analytics
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2021-2025
   institution:
     name: Jomo Kenyatta University of Agriculture and Technology.
     url: "#"
