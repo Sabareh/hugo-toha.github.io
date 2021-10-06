@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Bsc. in Data Science and Analytics
+  name: Bsc. in Data Science
   icon: fa-microscope
   timeframe: 2021-2025
   institution:
